@@ -60,6 +60,9 @@ LANGUAGE ~English~
          ~english~
 		 ~rpgsolaflirtpack/lang/english/setup.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+		 ~rpgsolaflirtpack/lang/schinese/setup.tra~
 
 /* =========================================================== *
  *  The RPG Dungeon Solaufein Flirt Pack for BG2: SoA and ToB  *
